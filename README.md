@@ -1,2 +1,2 @@
 # SDP-Java assignment2
- Observer Pattern
+ Observer Pattern on example of tickets sale service 
